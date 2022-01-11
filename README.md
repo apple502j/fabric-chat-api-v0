@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Fabric Chat API
+This is the Fabric Chat API (v0). (DO NOT USE IN MODS YET - is not ready, is incompatible by design!)
 
 ## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Requires Java 17 and MC 1.18.1
 
 ## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Apache 2.0.
